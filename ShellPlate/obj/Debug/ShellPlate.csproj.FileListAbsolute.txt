@@ -1,0 +1,11 @@
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\bin\Debug\ShellPlate.exe.config
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\bin\Debug\ShellPlate.exe
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\bin\Debug\ShellPlate.pdb
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.csproj.ResolveComReference.cache
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.Shell.resources
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.SCdetail.resources
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.Properties.Resources.resources
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.csproj.GenerateResource.cache
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.csproj.CoreCompileInputs.cache
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.exe
+C:\Users\rahul.vishwakarma\source\repos\ShellPlate\ShellPlate\obj\Debug\ShellPlate.pdb

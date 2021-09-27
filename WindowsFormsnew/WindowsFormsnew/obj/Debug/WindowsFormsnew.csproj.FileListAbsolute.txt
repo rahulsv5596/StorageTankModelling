@@ -1,0 +1,32 @@
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csprojAssemblyReference.cache
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.ResolveComReference.cache
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.Form1.resources
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.Properties.Resources.resources
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.GenerateResource.cache
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.CoreCompileInputs.cache
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.exe.config
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.exe
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.pdb
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.exe
+C:\Users\PCHD rep tek\source\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.pdb
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.exe.config
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.exe
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.pdb
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csprojAssemblyReference.cache
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.ResolveComReference.cache
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.Form1.resources
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.Properties.Resources.resources
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.GenerateResource.cache
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.CoreCompileInputs.cache
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.exe
+C:\Users\RV\Downloads\07-05\repos\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.pdb
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.exe.config
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.exe
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\bin\Debug\WindowsFormsnew.pdb
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.ResolveComReference.cache
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.Nozzle.resources
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.Properties.Resources.resources
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.GenerateResource.cache
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.csproj.CoreCompileInputs.cache
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.exe
+C:\Users\rahul.vishwakarma\Downloads\WindowsFormsnew-20210907T042003Z-001\WindowsFormsnew\WindowsFormsnew\obj\Debug\WindowsFormsnew.pdb

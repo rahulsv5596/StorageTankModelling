@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 26.0-->
+  <ClassId>{77f33373-5bab-4971-b7ba-1de593366dd0}</ClassId>
+  <ClientId>{77f33373-5bab-4971-b7ba-1de593366dd0}</ClientId>
+  <DisplayName>InventorAddInnew</DisplayName>
+  <Description>InventorAddInnew</Description>
+  <Assembly>InventorAddInnew.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
